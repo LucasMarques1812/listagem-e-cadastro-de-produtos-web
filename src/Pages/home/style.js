@@ -24,7 +24,7 @@ export const ProdutoButton = styled.button`
  font-family: Arial, Helvetica, sans-serif;
  border-radius: 1rem;
  &:hover{ 
-  background-color: #5d65fa;
+  background-color: #2589BD;
   cursor: pointer;
  }
  `
@@ -41,7 +41,7 @@ float: left;
 margin-top: 9%;
 border-style:solid;
 background-color: #080705;
-color:white;
+color: white;
 width: 30vw;
 height: 55vh;
 border-radius:20px;
